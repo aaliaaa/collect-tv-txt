@@ -15,10 +15,6 @@ urls = [
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
     'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #每天自动更新1次
     'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt', #每天自动更新1次
-    'https://m3u.ibert.me/txt/fmml_ipv6.txt',
-    'https://m3u.ibert.me/txt/ycl_iptv.txt',
-    'https://m3u.ibert.me/txt/y_g.txt',
-    'https://m3u.ibert.me/txt/j_home.txt',
     'https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt',
     'https://gitee.com/xxy002/zhiboyuan/raw/master/zby.txt',
     'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt', #每天早晚各自动更新1次 2024-06-03 17:50
@@ -37,7 +33,7 @@ urls = [
     'http://xhztv.top/v6.txt',  #ADD 2024-08-14 
     'https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt',  #ADD 2024-08-14 酒店源4小时自动更新一次，质量一般 
     'https://gitlab.com/tvtg/vip/-/raw/main/log.txt' #ADD 2024-08-10 
-     'https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt',
+    'https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt',
     'http://120.79.4.185/new/mdlive.txt',
     'https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt',
     'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt',
@@ -75,7 +71,21 @@ urls = [
     'https://m3u.ibert.me/txt/fmml_ipv6.txt',
     'https://github.com/mengxianshengaaa/live/blob/main/tv/zhibo.txt',
     'https://github.com/mengxianshengaaa/live/blob/main/tv/zhibo1.txt',
-    #'',
+    'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt'
+    'https://raw.githubusercontent.com/gdstchdr1/IPTV/main/bc.txt'
+    'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8'
+    'https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt'
+    'https://notabug.org/vnjd/yydu/raw/master/yyfug.txt'
+    'https://tvkj.top/tvlive.txt'
+    'https://pan.beecld.com/f/OXMcA/%E6%98%A5%E8%B5%A2%E5%A4%A9%E4%B8%8B.txt'
+    'http://kxrj.site:55/lib/kx2024.txt'
+    'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt'
+    'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u'
+    'https://wzsvip.github.io/ipv4.txt'
+    'http://wz.42web.io/ipv4.txt'
+    'https://wzsvip.github.io/ipv4.m3u'
+    'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt'
+     #'',
     #''
 ]
 
