@@ -82,8 +82,6 @@ urls = [
     'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
     'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',
     'https://wzsvip.github.io/ipv4.txt',
-    'http://wz.42web.io/ipv4.txt',
-    'https://wzsvip.github.io/ipv4.m3u',
     'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt',
      #'',
     #''
