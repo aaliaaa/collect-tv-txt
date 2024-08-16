@@ -71,20 +71,20 @@ urls = [
     'https://m3u.ibert.me/txt/fmml_ipv6.txt',
     'https://github.com/mengxianshengaaa/live/blob/main/tv/zhibo.txt',
     'https://github.com/mengxianshengaaa/live/blob/main/tv/zhibo1.txt',
-    'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt'
-    'https://raw.githubusercontent.com/gdstchdr1/IPTV/main/bc.txt'
-    'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8'
-    'https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt'
-    'https://notabug.org/vnjd/yydu/raw/master/yyfug.txt'
-    'https://tvkj.top/tvlive.txt'
-    'https://pan.beecld.com/f/OXMcA/%E6%98%A5%E8%B5%A2%E5%A4%A9%E4%B8%8B.txt'
-    'http://kxrj.site:55/lib/kx2024.txt'
-    'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt'
-    'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u'
-    'https://wzsvip.github.io/ipv4.txt'
-    'http://wz.42web.io/ipv4.txt'
-    'https://wzsvip.github.io/ipv4.m3u'
-    'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt'
+    'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt',
+    'https://raw.githubusercontent.com/gdstchdr1/IPTV/main/bc.txt',
+    'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8',
+    'https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt',
+    'https://notabug.org/vnjd/yydu/raw/master/yyfug.txt',
+    'https://tvkj.top/tvlive.txt',
+    'https://pan.beecld.com/f/OXMcA/%E6%98%A5%E8%B5%A2%E5%A4%A9%E4%B8%8B.txt',
+    'http://kxrj.site:55/lib/kx2024.txt',
+    'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
+    'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',
+    'https://wzsvip.github.io/ipv4.txt',
+    'http://wz.42web.io/ipv4.txt',
+    'https://wzsvip.github.io/ipv4.m3u',
+    'http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt',
      #'',
     #''
 ]
