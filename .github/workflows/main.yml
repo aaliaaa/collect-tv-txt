@@ -40,7 +40,7 @@ jobs:
           
     - name: Commit changes
       run: |
-          git config --local user.email "actions@github.com"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
           git add merged_output.txt
           git add merged_output.m3u
