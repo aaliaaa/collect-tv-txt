@@ -963,10 +963,10 @@ try:
     print(f"合并后的文本已保存到文件: {new_output_file_simple}")
 
     # 全集版
-     with open(output_file, 'w', encoding='utf-8') as f:
+    with open(output_file, 'w', encoding='utf-8') as f:
          for line in all_lines:
              f.write(line + '\n')
-     print(f"合并后的文本已保存到文件: {output_file}")
+    print(f"合并后的文本已保存到文件: {output_file}")
 
     with open(new_output_file, 'w', encoding='utf-8') as f:
         for line in all_lines:
@@ -1115,5 +1115,6 @@ print(f"other行数: {other_lines_hj} ")
 #备用1：http://tonkiang.us
 #备用2：https://www.zoomeye.hk,https://www.shodan.io,https://tv.cctv.com/live/
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
+
 
 
