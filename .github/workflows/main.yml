@@ -38,6 +38,7 @@ jobs:
         path: |
           bbxx.txt
           others_output.txt
+          merged_output.txt
           
     - name: Commit changes
       run: |
